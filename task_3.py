@@ -1,10 +1,12 @@
 import csv
 
+'''Считываем файл'''
 with open('vacancy.txt', encoding='utf8') as file:
     r = csv.reader(file, delimiter=';')
     r = list(r)[1:]
     r = sorted(r, key=lambda x: x[3])
 
+'''Программа работает до ввода "устал"'''
 search = input()
 length = len(r)
 prev_ind = 0
@@ -12,6 +14,8 @@ while search != 'устал':
     ind = length // 2
     cur_length = length // 2
     answer = []
+
+    '''Бинарный поиск'''
     while not answer:
         if r[ind][3] > search:
             ind -= cur_length // 2
