@@ -1,11 +1,11 @@
 import csv
 
-'''Считываем файл'''
+'''Считывание файла'''
 with open('vacancy.txt', encoding='utf8') as file:
     r = csv.reader(file, delimiter=';')
     r = sorted(list(r)[1:], key=lambda x: (x[4], int(x[0])))
 
-'''Создаем словарь с данными о компаниях'''
+'''Создание словаря с данными о компаниях'''
 companies = {}
 for line in r:
     salary = int(line[0])
@@ -20,13 +20,13 @@ for line in r:
         companies[company] = []
     companies[company].append(salary)
 
-'''Строим строки для ответа'''
+'''Создание списка строк с ответами'''
 answer = []
 for company in companies.keys():
     salaries = companies[company]
     av_salary = sum(salaries) / len(salaries)
     answer.append(f'{company}: {av_salary}')
 
-'''Записываем ответ в файл'''
+'''Запись ответа в файл'''
 with open('vacancy_average.txt', 'w', encoding='utf8') as file:
     file.writelines('\n'.join(answer))

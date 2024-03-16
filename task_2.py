@@ -1,11 +1,11 @@
 import csv
 
-'''Считывание файл'''
+'''Считывание файла'''
 with open('vacancy.txt', encoding='utf8') as file:
     r = csv.reader(file, delimiter=';')
     r = list(r)[1:]
 
-'''Сортировка компании по убыванию'''
+'''Сортировка компаний по убыванию'''
 for i in range(len(r)):
     for j in range(1, i):
         line1 = r[j - 1]
