@@ -1,5 +1,4 @@
 import csv
-from pprint import pprint
 
 with open('vacancy.txt', encoding='utf8') as file:
     r = csv.reader(file, delimiter=';')
