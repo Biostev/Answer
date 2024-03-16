@@ -1,178 +1,178 @@
-Icahn Enterprises: 41480.0
- PNC Financial Services Group: 41216.0
-United Services Automobile Assn.: 43920.0
-Hess: 45240.0
-Cairn Energy: 44544.0
-Adani Ports and Special Economic Zone: 42480.0
-FedEx: 43848.0
-Ryder System: 45240.0
-Zee Entertainment Enterprises: 45240.0
-CSX: 43200.0
-Вкусно и точка: 41128.0
-TPG Telecom: 44544.0
-ThyssenKrupp AG: 45240.0
-EnLink Midstream: 41216.0
-NGL Energy Partners: 42840.0
-Bayer AG: 43860.0
-Deere: 43200.0
-Mondelez International: 40480.0
  3M: 40480.0
-KKR: 43860.0
-EasyJet: 44544.0
-Otis Worldwide: 42688.0
- Oil Search: 44640.0
-HCL Technologies: 41840.0
-DTE Energy: 41760.0
-Associated British Foods: 42480.0
-Xcel Energy: 44544.0
-Deutsche Post DHL Group: 43848.0
-Bodycote: 45240.0
-Old Republic International: 40480.0
-United Airlines Holdings: 45240.0
-Tenet Healthcare: 43140.0
-Regions Financial: 45240.0
-CBRE Group: 44640.0
-Отель Луна: 41760.0
-Corning: 43200.0
-Leidos Holdings: 44544.0
-Divi's Laboratories: 41040.0
- Tata Consumer Products: 41760.0
-Fannie Mae: 41216.0
-Spotify Technology S.A.: 40480.0
-Bajaj Auto: 44640.0
-Renishaw: 45240.0
-News Corp.: 41216.0
+ AGCO: 43848.0
  Arconic: 41216.0
-Revlon: 42512.0
-Dow: 42480.0
-Seaboard: 41040.0
-Всезнайка: 44640.0
-Enterprise Products Partners: 40480.0
-Carrier Global: 42480.0
-UnitedHealth Group: 44544.0
-Avnet: 43560.0
-UGI: 43848.0
-Disney+: 41040.0
-General Electric: 45240.0
-Brighthouse Financial: 45240.0
-Deutsche Pfandbriefbank AG: 43920.0
-GlaxoSmithKline: 41040.0
-Starbucks: 41216.0
-Hindalco Industries: 45240.0
-Lincoln National: 45240.0
-Nestle India: 41848.0
-Электрокомпоненты: 43848.0
-Community Health Systems: 44544.0
-Equitable Holdings: 41216.0
-Bajaj Finserv: 44544.0
-PulteGroup: 41760.0
-Stockland Corporation: 41216.0
-Group 1 Automotive: 45240.0
-Altria Group: 44544.0
-Reynolds American Inc.: 43200.0
-Huntsman: 40480.0
-Republic Services: 42164.0
-Continental AG: 43920.0
-Tesla: 41216.0
-Continental Resources: 44544.0
-Henkel AG & Co. KGaA: 41040.0
-WESCO International: 43848.0
-Unilever: 42480.0
-NRG Energy: 45240.0
-InterContinental Hotels Group: 41216.0
-Ceconomy AG: 43920.0
-Constellation Brands: 41760.0
-Interpublic Group: 43200.0
-Auto-Owners Insurance: 41040.0
-ODP: 44544.0
-Titan Company: 41760.0
-страховая биржа Farmers: 43920.0
-Publix Super Markets: 40480.0
-US Foods Holding: 41760.0
-Croda International: 42480.0
-Travelers: 43848.0
-Textron: 40480.0
-Ulta Beauty: 44640.0
-American Electric Power: 43920.0
-Tencent Holdings: 43164.0
-Tullow Oil: 43920.0
-Qualcomm: 44640.0
-AutoNation: 44544.0
-Peter Kiewit Sons: 42480.0
-General Mills: 41216.0
-Western Digital: 43200.0
-PNC Financial Services Group: 43200.0
-Farmers Insurance Exchange: 43920.0
-CIMIC Group: 45240.0
-Alibaba Health Information Technology: 45240.0
-Exelon: 43848.0
-SAP SE: 44544.0
-IBM (International Business Machines Corporation): 43848.0
-Fidelity Investments: 40480.0
-Intercontinental Exchange: 43848.0
-Power Grid Corporation of India: 41216.0
-Consolidated Edison: 43200.0
-Northrop Grumman: 43200.0
-Corteva: 43200.0
-Colgate-Palmolive: 44640.0
-SF Express: 41760.0
-Dover: 42480.0
-Lendlease Group: 43860.0
-Asbury Automotive Group: 41040.0
-TD Ameritrade Holding Corporation: 45240.0
-Britannia Industries: 41040.0
-Muthoot Finance: 41216.0
-Dana: 44640.0
-Aflac: 41216.0
-Quanta Services: 41216.0
-Ashtead Group: 43920.0
-Glenmark Pharmaceuticals: 43200.0
-Eastman Chemical: 41760.0
-Carnival Corporation & plc: 43200.0
-Adani Green Energy: 43848.0
-Fiat Chrysler Automobiles N.V.: 41216.0
-Газировка: 43920.0
  BYD Company: 43200.0
  Delta Air Lines: 44640.0
-Kinder Morgan: 43848.0
-Workspace Group: 41216.0
-CDW: 43200.0
-Halma: 45240.0
+ Oil Search: 44640.0
+ PNC Financial Services Group: 41216.0
+ Tata Consumer Products: 41760.0
 AES: 42840.0
-LKQ: 43920.0
-Salesforce: 42480.0
-Siemens India: 42480.0
-NextEra Energy: 45240.0
-Computacenter: 43200.0
-ВК: 45240.0
-Hershey: 42480.0
-TAG Immobilien AG: 45240.0
-Блок: 43848.0
-Linde plc: 41216.0
-Nucor: 42480.0
-Gree Electric Appliances: 41216.0
-DCP Midstream: 42480.0
-Balfour Beatty: 43200.0
-Ameriprise Financial: 41216.0
-Банковская группа: 42480.0
-MetLife: 43200.0
+Adani Green Energy: 43848.0
+Adani Ports and Special Economic Zone: 42480.0
+Aflac: 41216.0
+Alibaba Health Information Technology: 45240.0
+Altria Group: 44544.0
+American Electric Power: 43920.0
 American Tower: 45240.0
-Expedia Group: 44640.0
+Ameriprise Financial: 41216.0
 Archer Daniels Midland: 44640.0
-Steel Dynamics: 41040.0
-Playtech: 40480.0
-Uber Technologies: 43920.0
-Графическая упаковка: 44544.0
-Jubilant Foodworks: 45240.0
- AGCO: 43848.0
-Diageo: 43920.0
-Eversource Energy: 40480.0
-Аэрофлот: 41216.0
+Asbury Automotive Group: 41040.0
+Ashtead Group: 43920.0
+Associated British Foods: 42480.0
+Auto-Owners Insurance: 41040.0
+AutoNation: 44544.0
 Avantor: 40480.0
-Здоровье: 41040.0
+Avnet: 43560.0
 BHEL: 41216.0
-Marathon Oil: 42480.0
-Geely Automobile Holdings: 43920.0
-Williams: 44640.0
-Sun Pharmaceutical Industries: 41040.0
+Bajaj Auto: 44640.0
+Bajaj Finserv: 44544.0
+Balfour Beatty: 43200.0
+Bayer AG: 43860.0
+Bodycote: 45240.0
+Brighthouse Financial: 45240.0
+Britannia Industries: 41040.0
 Burberry Group: 42480.0
+CBRE Group: 44640.0
+CDW: 43200.0
+CIMIC Group: 45240.0
+CSX: 43200.0
+Cairn Energy: 44544.0
+Carnival Corporation & plc: 43200.0
+Carrier Global: 42480.0
+Ceconomy AG: 43920.0
+Colgate-Palmolive: 44640.0
+Community Health Systems: 44544.0
+Computacenter: 43200.0
+Consolidated Edison: 43200.0
+Constellation Brands: 41760.0
+Continental AG: 43920.0
+Continental Resources: 44544.0
+Corning: 43200.0
+Corteva: 43200.0
+Croda International: 42480.0
+DCP Midstream: 42480.0
+DTE Energy: 41760.0
+Dana: 44640.0
+Deere: 43200.0
+Deutsche Pfandbriefbank AG: 43920.0
+Deutsche Post DHL Group: 43848.0
+Diageo: 43920.0
+Disney+: 41040.0
+Divi's Laboratories: 41040.0
+Dover: 42480.0
+Dow: 42480.0
+Eastman Chemical: 41760.0
+EasyJet: 44544.0
+EnLink Midstream: 41216.0
+Enterprise Products Partners: 40480.0
+Equitable Holdings: 41216.0
+Eversource Energy: 40480.0
+Exelon: 43848.0
+Expedia Group: 44640.0
+Fannie Mae: 41216.0
+Farmers Insurance Exchange: 43920.0
+FedEx: 43848.0
+Fiat Chrysler Automobiles N.V.: 41216.0
+Fidelity Investments: 40480.0
+Geely Automobile Holdings: 43920.0
+General Electric: 45240.0
+General Mills: 41216.0
+GlaxoSmithKline: 41040.0
+Glenmark Pharmaceuticals: 43200.0
+Gree Electric Appliances: 41216.0
+Group 1 Automotive: 45240.0
+HCL Technologies: 41840.0
+Halma: 45240.0
+Henkel AG & Co. KGaA: 41040.0
+Hershey: 42480.0
+Hess: 45240.0
+Hindalco Industries: 45240.0
+Huntsman: 40480.0
+IBM (International Business Machines Corporation): 43848.0
+Icahn Enterprises: 41480.0
+InterContinental Hotels Group: 41216.0
+Intercontinental Exchange: 43848.0
+Interpublic Group: 43200.0
+Jubilant Foodworks: 45240.0
+KKR: 43860.0
+Kinder Morgan: 43848.0
+LKQ: 43920.0
+Leidos Holdings: 44544.0
+Lendlease Group: 43860.0
+Lincoln National: 45240.0
+Linde plc: 41216.0
+Marathon Oil: 42480.0
+MetLife: 43200.0
+Mondelez International: 40480.0
+Muthoot Finance: 41216.0
+NGL Energy Partners: 42840.0
+NRG Energy: 45240.0
+Nestle India: 41848.0
+News Corp.: 41216.0
+NextEra Energy: 45240.0
+Northrop Grumman: 43200.0
+Nucor: 42480.0
+ODP: 44544.0
+Old Republic International: 40480.0
+Otis Worldwide: 42688.0
+PNC Financial Services Group: 43200.0
+Peter Kiewit Sons: 42480.0
+Playtech: 40480.0
+Power Grid Corporation of India: 41216.0
+Publix Super Markets: 40480.0
+PulteGroup: 41760.0
+Qualcomm: 44640.0
+Quanta Services: 41216.0
+Regions Financial: 45240.0
+Renishaw: 45240.0
+Republic Services: 42164.0
+Revlon: 42512.0
+Reynolds American Inc.: 43200.0
+Ryder System: 45240.0
+SAP SE: 44544.0
+SF Express: 41760.0
+Salesforce: 42480.0
+Seaboard: 41040.0
+Siemens India: 42480.0
+Spotify Technology S.A.: 40480.0
+Starbucks: 41216.0
+Steel Dynamics: 41040.0
+Stockland Corporation: 41216.0
+Sun Pharmaceutical Industries: 41040.0
+TAG Immobilien AG: 45240.0
+TD Ameritrade Holding Corporation: 45240.0
+TPG Telecom: 44544.0
+Tencent Holdings: 43164.0
+Tenet Healthcare: 43140.0
+Tesla: 41216.0
+Textron: 40480.0
+ThyssenKrupp AG: 45240.0
+Titan Company: 41760.0
+Travelers: 43848.0
+Tullow Oil: 43920.0
+UGI: 43848.0
+US Foods Holding: 41760.0
+Uber Technologies: 43920.0
+Ulta Beauty: 44640.0
+Unilever: 42480.0
+United Airlines Holdings: 45240.0
+United Services Automobile Assn.: 43920.0
+UnitedHealth Group: 44544.0
+WESCO International: 43848.0
+Western Digital: 43200.0
+Williams: 44640.0
+Workspace Group: 41216.0
+Xcel Energy: 44544.0
+Zee Entertainment Enterprises: 45240.0
+Аэрофлот: 41216.0
+Банковская группа: 42480.0
+Блок: 43848.0
+ВК: 45240.0
+Вкусно и точка: 41128.0
+Всезнайка: 44640.0
+Газировка: 43920.0
+Графическая упаковка: 44544.0
+Здоровье: 41040.0
+Отель Луна: 41760.0
+Электрокомпоненты: 43848.0
+страховая биржа Farmers: 43920.0
